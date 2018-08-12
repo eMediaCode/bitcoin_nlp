@@ -5,3 +5,5 @@ This project uses the New API to grab CNBC headlines then using Natural Language
 - CNBC Headlines - Notebook to get CNBC Headlines, uses the New API to get the headlines.  You will need to get an API key to run this notebook, you can get one [here](https://newsapi.org/)
 
 - Sentiment Analysis - Notebook goes over conducting sentiment analysis using [VADER Sentiment Analysis](https://github.com/cjhutto/vaderSentiment)
+
+- Data/cnbc.csv - Output from the CNBC Headlines Notebook
